@@ -1,7 +1,7 @@
 ### Hi Hairong Shi is there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanase1025&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanase1025&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanase1025&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanase1025&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nanase1025/nanase1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
